@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))()
+local library = loadstring(game:HttpGet(('https://github.com/waled1221/RBXEX2/blob/main/README.md')))()
 local w = library:CreateWindow("Dogecoin Mining Tycoon")
 local b = w:CreateFolder("AutoFarm")
 local f = w:CreateFolder("AutoBuy")
